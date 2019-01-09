@@ -66,6 +66,7 @@ describe('index.js', function () {
       expect(fareDoubler(10)).to.eql(20);
     });
   });
+  
 
   describe('fareTripler()', function () {
     it('is a function', function () {
